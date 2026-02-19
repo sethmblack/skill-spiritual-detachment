@@ -3,8 +3,8 @@ name: spiritual-detachment
 description: '**Origin:** John of the Cross (San Juan de la Cruz) **Domain:** Christian Mysticism / Spiritual Formation **Purpose:** Guide someone through systematic release of attachments using the nada (nothin...'
 license: MIT
 metadata:
+  version: 1.0.5037
   author: sethmblack
-  version: 1.0.5036
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - spiritual-detachment-practice
